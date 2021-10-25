@@ -12,7 +12,7 @@ Password Locker is an application that helps users to generate accounts and gene
 
 ## Technologies Used
 
-Python3.9
+Python3.8
 
 
 ##### Setup Instructions and Installation
