@@ -2,13 +2,13 @@
 
 Password Locker is an application that helps users to generate accounts and generate secure passwords for them . The password locker runs on the terminal and uses short codes to navigate through it. When starting up the application, the user is met with the following shortcodes:
 
- print("CU - Create a New User")
-        DU - Display Users
-        FU - Find a User
-        CA - Create An Account
-        DI - Display Account Information
-        DA - Delete Account
-        EX - Exit
+ 1.CU - Create a New User
+ 2.DU - Display Users
+ 3.FU - Find a User
+ 4.CA - Create An Account
+ 5.DI - Display Account Information
+ 6.DA - Delete Account
+ 7.EX - Exit
 
 ## Technologies Used
 
